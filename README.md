@@ -10,6 +10,9 @@ Welcome to the Voice-Controlled Volume Adjustment Project (Nish Volume Maestro)!
 
 💌 If you seek guidance, have questions, or wish to delve deeper into the arcane arts, reach out to the enchanter behind the code, Mohamed Thanish, via [ mohamedthanish14@gmail.com ]or [LinkedIn]( https://www.linkedin.com/in/mohamed-thanish-m-b82053218/ ).
 
+![its me ](https://media.licdn.com/dms/image/C4D03AQGKFO-u-lClJA/profile-displayphoto-shrink_800_800/0/1661606445764?e=1703721600&v=beta&t=HWx7xigPN5AlHGp5plWPxV_iV3uRJqgI1QwOTghPJmw)
+
+
 ## Code Flow
 
 1. **Import Libraries**:
